@@ -1,6 +1,6 @@
 function hello(person) {
     return "Hello, " + person;
 }
-let user = "Aamod Tiwari";
+let user = "Tyler";
 const result = hello(user);
-console.log("Result", result)
+console.log("Result: ", result)
